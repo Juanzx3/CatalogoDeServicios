@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.jfgr"
+    version   = "1.0.0">
+
+<name>Catalogo de Servicios</name>
+
+<description>
+   Proyecto Final Aplicación Final PhoneGap
+</description>
+
+<author href="https://example.com" email="you@example.com">
+    Juan Francisco Gomez Rodriguez
+</author>
+
+
+<icon src="images/logo.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/logo.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/logo.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/logo.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
